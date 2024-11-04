@@ -29,7 +29,7 @@ int main(){
         printf("All numbers are equal!");
     }else{
         float largest = largestNum(num1, num2, num3);
-        printf("The biggest number is: %.3f", largest);
+        printf("The largest number is: %.3f", largest);
     }
 
     return 0;
